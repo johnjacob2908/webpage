@@ -88,7 +88,7 @@ progress {
     background: #FF0018FF;
 }
 progress::-webkit-progress-bar {
-    background: #3fb6b2;
+    background: #efefef;
 }
 progress::-webkit-progress-value {
     background: #FF0018FF;
