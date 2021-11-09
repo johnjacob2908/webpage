@@ -82,7 +82,7 @@ li {
     font-weight: bold;
 }
 progress {
-    width: 70%;
+    width: 70px;
     height: 20px;
     color: #3fb6b2;
     background: #efefef;
@@ -93,10 +93,7 @@ progress::-webkit-progress-bar {
 progress::-webkit-progress-value {
     background: #3fb6b2;
 } 
-progress::-moz-progress-bar {
-    color: #3fb6b2;
-    background: #efefef;
-}
+
 iframe, fullscreen   {
     display: block ;
     margin: 0 auto;
