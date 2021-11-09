@@ -82,17 +82,17 @@ li {
     font-weight: bold;
 }
 progress {
-    width: 70px;
+    width: 70%;
     height: 20px;
     color: #efefef;
     background: #FF0018FF;
 }
 progress::-webkit-progress-bar {
-    background: #efefef;
+    background: #3fb6b2;
 }
 progress::-webkit-progress-value {
-    background: #FF0018FF;
-}
+    background: #FF2600FF;
+} 
 
 iframe, fullscreen   {
     display: block ;
