@@ -84,7 +84,7 @@ li {
 progress {
     width: 70px;
     height: 20px;
-    color: #3fb6b2;
+    color: #efefef;
     background: #FF0018FF;
 }
 progress::-webkit-progress-bar {
